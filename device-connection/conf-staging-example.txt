@@ -1,0 +1,7 @@
+{
+  "ssid"     : "",
+  "password" : "",
+  "iotURL"   : "iotURL-ats.iot.us-east-1.amazonaws.com",
+  "apiURL"   : "https://<apiURL>.execute-api.us-east-1.amazonaws.com/dev",
+  "apiKey"   : ""
+}

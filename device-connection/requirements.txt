@@ -1,0 +1,16 @@
+certifi==2019.11.28
+chardet==3.0.4
+http-client==0.1.22
+idna==2.9
+ifaddr==0.1.6
+Naked==0.1.31
+py2exe==0.9.2.2
+pycrc==0.9.2
+pycryptodome==3.9.7
+pycurl==7.43.0.5
+PyYAML==5.3.1
+requests==2.23.0
+shellescape==3.8.1
+six==1.14.0
+urllib3==1.25.8
+zeroconf==0.26.1
