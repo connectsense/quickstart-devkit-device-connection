@@ -28,18 +28,16 @@ the upper left and the Status LED is on the upper right as shown below.
 
 ### Push Button
 The push button on the Smart Power Cord can be used to manually turn on and off
-any device that is plugged into the Smart Power Cord. If desired, the button can be
-disabled through the configuration screen. Here is the behavior of the push button
+any device that is plugged into the Smart Power Cord.
 
 | **Push button**                                                                                                           | **Wi-Fi LED**            |
 |---------------------------------------------------------------------------------------------------------------------------|--------------------------|
 | Holding button for 5 seconds does a reboot                                                                                | flash green for 1 second |
-| Holding button for 10 seconds does a soft (Wi-Fi credentials) reset                                                       | flash yellow             |
-| Holding button for 15 seconds does a full factory reset                                                                   | flash red                |
+| Holding button for 10 seconds does a full factory reset                                                                   | flash red                |
 | Press the push button down for 1 second to toggle the relay and turn on / off a device plugged into the Smart Power Cord. | N/A                      | 
 
 The push button is used to provision the Smart Power cord on the ConnectSense
-Cloud application. If you hold down the push button for roughly 15 seconds it will reset
+Cloud application. If you hold down the push button for roughly 10 seconds it will reset
 the Smart Power Cord to default configuration and put the Wi-Fi interface into SoftAP
 mode so that it can be provisioned onto the customer’s network and the
 ConnectSense cloud application.
